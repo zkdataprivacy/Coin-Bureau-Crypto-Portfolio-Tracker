@@ -1,0 +1,33 @@
+Following Hex codes are derived from ChatGPT queries.
+
+Bitcoin (BTC): #F7931A
+Ethereum (ETH): #808080
+USD coin (USDC): #2775CA
+Cardano (ADA): #3EB049
+Solana (SOL): #00D4BD
+Polkadot (DOT): #E6007A
+Yearn.finance (YFI): #006AE3
+Chainlink (LINK): #2A5ADA
+Injective (INJ): #E94328
+Thorchain (RUNE): #1A1A1A
+Cosmos (ATOM): #2E3148
+1inch Network (1inch): #2C2C2C
+Avalanche (AVAX): #EE9A2D
+Ren (REN): #001732
+Litentry (LIT): #8C30F5
+Dodo (DODO): #F65E8D
+Pax Gold (PAXG): #E6C04D
+Polygon (MATIC): #8247E5
+Arweave (AR): #F24D27
+Terra USD (UST): #1AAB9B
+Helium (HNT): #FDB94E
+Fantom (FTM): #1969FF
+XDEFI Wallet (XDEFI): #1EAE98
+Yield Guild Games (YGG): #F26D21
+Terra (LUNA): #FF4500
+Apecoin (APE): #00ACFF
+Near Protocol (NEAR): #E76D57
+Lido staked ETH (stETH): #346AD3
+Lido DAO (LDO): #6B61D1
+US Dollar (USD): #00B4F2
+Tether (USDT): #26A17B

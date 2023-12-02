@@ -1,0 +1,25 @@
+#rough note
+
+Bitcoin (BTC)
+Ethereum (ETH)
+USD coin (USDC)
+US Dollar (USD)
+Tether (USDT)
+Polkadot (DOT)
+Cardano (ADA)
+Near Protocol (NEAR)
+Polygon (MATIC)
+Solana (SOL)
+Yearn.finance (YFI)
+Thorchain (RUNE)
+Cosmos (ATOM)
+Avalanche (AVAX)
+Pax Gold (PAXG)
+Arweave (AR)
+Terra USD (UST)
+Terra (LUNA)
+Apecoin (APE)
+Lido staked ETH (stETH)
+Lido DAO (LDO)
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/14627166"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
