@@ -59,6 +59,6 @@ Head on to become a CBC member: https://hub.coinbureau.com/
 
 ## Bonus
 
-If you've followed along and expressed interest in this project, I've prepared an interactive Power BI analysis as a token of appreciation. This analysis delves deep into the collected data, offering valuable insights such as the average holding period, percentage of a specific crypto, and the top 10 cryptos favored by someone deeply invested in them. You can access the pbfix file in this repository. Arigato!
+If you've followed along and expressed interest in this project, I've prepared an interactive Power BI analysis as a token of appreciation. This analysis delves deep into the collected data, offering valuable insights such as the average holding period, percentage of a specific crypto, and the top 10 cryptos on which Guy is super bullish AKA diamond hands. You can access the pbfix file in this repository. Arigato!
 
 [![image.png](https://i.postimg.cc/yYHD7pC0/image.png)](https://postimg.cc/s1TjccX2)
