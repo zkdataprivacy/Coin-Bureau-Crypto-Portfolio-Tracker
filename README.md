@@ -56,3 +56,9 @@ Throughout the creation process, troubleshooting was essential to achieve the de
 However, it's important to note that future tracking of Guy's portfolio has shifted exclusively to the Coin Bureau Club (CBC) for subscribed members. The CBC platform now hosts Guy's portfolio information, along with that of other core Coin Bureau team members. Features include a watchlist of cryptocurrencies under consideration, access to Coin Bureau's altcoin review videos, and an exclusive research feed where Guy and the team share insights and alpha. Members enjoy numerous benefits, including unlimited access to CBC's growing archive and the opportunity to vote on upcoming project coverage.
 
 Head on to become a CBC member: https://hub.coinbureau.com/
+
+## Bonus
+
+If you've followed along and expressed interest in this project, I've prepared an interactive Power BI analysis as a token of appreciation. This analysis delves deep into the collected data, offering valuable insights such as the average holding period, percentage of a specific crypto, and the top 10 cryptos favored by someone deeply invested in them. You can access the pbfix file in this repository. Arigato!
+
+[![image.png](https://i.postimg.cc/yYHD7pC0/image.png)](https://postimg.cc/s1TjccX2)
